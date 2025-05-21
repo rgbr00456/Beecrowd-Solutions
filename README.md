@@ -38,7 +38,7 @@ Cada arquivo representa uma solução para um problema específico, identificado
 
 ## 📝 Como executar os códigos
 
-Para compilar e rodar uma solução em seu terminal:
+- Para compilar e rodar uma solução C em seu terminal:
 
 ```bash
 gcc C/1036.c -o 1036
@@ -46,6 +46,25 @@ gcc C/1036.c -o 1036
 ```
 
 Você pode substituir `1036` pelo número do problema que deseja testar.
+
+- Para compilar e rodar uma solução Java em seu terminal:
+
+```bash
+javac Java/NomeDoArquivo.java
+java -cp Java NomeDoArquivo
+```
+
+Substitua NomeDoArquivo pelo nome real da sua classe pública (sem a extensão .java).
+
+
+- Para compilar e rodar uma solução C++ em seu terminal:
+
+```bash
+g++ CPP/1036.cpp -o 1036
+./1036
+```
+
+Ajuste o nome 1036.cpp conforme o arquivo que deseja compilar.
 
 ---
 
