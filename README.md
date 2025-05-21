@@ -1,18 +1,19 @@
-# 🧠 Soluções Beecrowd em C e Java
+# 🧠 Soluções Beecrowd em C, Java e C++
 
-Este repositório contém minha coleção de soluções para problemas da plataforma [Beecrowd](https://www.beecrowd.com.br/), todas escritas em linguagem **C** ou **Java**. O objetivo é praticar algoritmos, lógica de programação e estrutura de dados de forma progressiva.
+Este repositório contém minha coleção de soluções para problemas da plataforma [Beecrowd](https://www.beecrowd.com.br/), todas escritas em linguagem **C**, **Java** ou **C++**. O objetivo é praticar algoritmos, lógica de programação e estrutura de dados de forma progressiva.
 
 ---
 
 ## 📁 Estrutura do Repositório
 
 ```
-beecrowd/
-└── C/
-    ├── 1021.c
-    ├── 1036.c
-    ├── 1037.c
-    ├── ...
+📁 beecrowd/
+├── 📁 c/
+│   └── arquivos.c
+├── 📁 cpp/
+│   └── arquivos.cpp
+├── 📁 java/
+    └── arquivos.java
 ```
 
 Cada arquivo representa uma solução para um problema específico, identificado pelo seu número na plataforma Beecrowd.
@@ -22,13 +23,14 @@ Cada arquivo representa uma solução para um problema específico, identificado
 ## 🚀 Tecnologias Utilizadas
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
 ## 🎯 Objetivos deste repositório
 
-- Praticar lógica e resolução de problemas com as linguagens C e Java
+- Praticar lógica e resolução de problemas com as linguagens C, Java e C++
 - Aprimorar habilidades em algoritmos e estruturas de dados
 - Servir como base de estudos para concursos, entrevistas e maratonas de programação
 
